@@ -1,6 +1,6 @@
 # S23 DB
 
-![S23 DB PCB render](assets/PCB_render.png)
+![S23 DB PCB render](Assets/PCB_render.png)
 
 S23 daughterboard with CC resistors.
 

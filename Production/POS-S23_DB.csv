@@ -1,0 +1,7 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,100n,C_0402_1005Metric,13.2,2.2625,180.0,top
+J1,JST,JST_S4B-ZR-SM4A-TF(LF)(SN),42.3875,-10.5,-90.0,top
+L1,"220 @ 100MHz, 2A",L_0603_1608Metric,12.8925,3.5625,180.0,top
+R1,5.1k,R_0402_1005Metric,26.93,-0.6875,90.0,top
+R2,5.1k,R_0402_1005Metric,13.18,-0.6975,-90.0,top
+USB1,HRO-TYPE-C-31-M-12,HRO-TYPE-C-31-M-12-Assembly,20.0,6.1625,180.0,top

@@ -2435,7 +2435,7 @@
   (gr_line (start 81.07 52.0625) (end 127.07 52.0625) (layer "Edge.Cuts") (width 0.1) (tstamp c74c5772-c37a-4b38-9e48-522dab8fcdbb))
   (gr_line (start 120.47 72.3125) (end 120.47 63.75) (layer "Edge.Cuts") (width 0.1) (tstamp f477ede2-8fbd-4fae-a197-673a0210043f))
   (gr_arc (start 81.07 62.75) (mid 79.655786 62.164214) (end 79.07 60.75) (layer "Edge.Cuts") (width 0.1) (tstamp f5a0748f-4732-4f5b-9280-bd514afb414c))
-  (gr_text "D+" (at 125.67 66.7625) (layer "B.SilkS") (tstamp 8c93c201-fa91-417d-bdb2-aa539b97a2c7)
+  (gr_text "D-" (at 125.67 66.7625) (layer "B.SilkS") (tstamp 8c93c201-fa91-417d-bdb2-aa539b97a2c7)
     (effects (font (size 1 1) (thickness 0.2)) (justify right mirror))
   )
   (gr_text "VBUS" (at 123.97 65.3625) (layer "B.SilkS") (tstamp b702d4f4-30bc-403b-9d8c-03286f144299)
@@ -2444,7 +2444,7 @@
   (gr_text "GND" (at 124.87 69.8625) (layer "B.SilkS") (tstamp c345ea02-65d9-4ff7-89b6-0f50f9b3f2da)
     (effects (font (size 1 1) (thickness 0.2)) (justify right mirror))
   )
-  (gr_text "D-" (at 125.67 68.2625) (layer "B.SilkS") (tstamp cd591734-b835-412e-92f4-d71af68b52c2)
+  (gr_text "D+" (at 125.67 68.2625) (layer "B.SilkS") (tstamp cd591734-b835-412e-92f4-d71af68b52c2)
     (effects (font (size 1 1) (thickness 0.2)) (justify right mirror))
   )
 

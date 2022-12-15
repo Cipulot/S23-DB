@@ -1549,7 +1549,7 @@
       (net 7 "Net-(R2-Pad1)") (pintype "passive") (tstamp 021242d8-d9f2-47e4-a766-fdf0a224e3a2))
     (pad "2" smd roundrect (at 0.51 0 270) (size 0.54 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 2 "GND") (pintype "passive") (tstamp eec1d7fa-b991-4120-8b59-0c75d03ebaac))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1592,7 +1592,7 @@
       (net 1 "GNDPWR") (pintype "passive") (tstamp 82986bf2-5e66-4791-a700-53ad85b21221))
     (pad "2" smd roundrect (at 0.48 0 180) (size 0.56 0.62) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 2 "GND") (pintype "passive") (tstamp 45dc741e-36b4-4e09-ac4c-ae5ed50190f8))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2292,7 +2292,7 @@
       (net 2 "GND") (pintype "passive") (tstamp adb8326b-4f7f-45c4-812c-a750072c2953))
     (pad "2" smd roundrect (at 0.51 0 90) (size 0.54 0.64) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 6 "Net-(R1-Pad2)") (pintype "passive") (tstamp e7b1fe24-3f97-48b2-b1d0-12eb4ee8c298))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2335,7 +2335,7 @@
       (net 1 "GNDPWR") (pinfunction "1") (pintype "passive") (tstamp cf46a527-33ee-41e1-87c2-43726dbc92e5))
     (pad "2" smd roundrect (at 0.7875 0 180) (size 0.875 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp 97d9e0cc-34ff-4c65-b08c-2277a1d9355f))
-    (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0603_1608Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0603_1608Metric.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))

@@ -382,7 +382,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../Assets/S23_DB.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
